@@ -63,3 +63,4 @@ a = (1,2,3)
 
 Dictionaries are key:value pairs, exactly like a map in other languages. They are an unordered, mutable datastructure with the restriction that you cannot have duplicate keys. Dictionaries are a great way to optimize many algorithms, as they allow O(1) lookup and modification times (amortized).
 
+![[dict1.png]]
