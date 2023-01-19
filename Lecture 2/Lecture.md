@@ -45,3 +45,9 @@ a = [0,2,0]
 a.remove(0) # a = [2,0]
 ```
 
+<center><b> Tuple </b></center>
+Tuples are python's fixed-length array solution, hwoever they have an unfamiliar declaration syntax, seen below-
+
+```python
+a = ()
+```
