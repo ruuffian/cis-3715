@@ -9,3 +9,4 @@ b = np.array([4,5,6])
 np.inner(a, b) # = [4, 10, 18]
 ```
 
+<h3> SciKitLearn </h3>
