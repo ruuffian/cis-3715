@@ -27,5 +27,9 @@ a = ["hello", "world", "bro"]
 print(a[0]) # hello
 print(a[-1]) # bro
 print(a[0:2]) # ['hello', 'world']
-print(a[2:-1])
+print(a[0:-2]) # ['hello', 'world']
 ```
+![List Example](images/lists.png)
+
+There are three ways to add to a list- append, insert, and extend. They do exactly what they say, in classic python fashion.
+
