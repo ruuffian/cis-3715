@@ -23,5 +23,9 @@ Machine Learning library
 Lists - Ordered, Mutable, and allow duplicates. Lists are python's simplest array-like data set. It's syntax seems like an array in many other languages, but python doesn't support fixed-length arrays in this way.
 
 ```python
-
+a = ["hello", "world", "bro"]
+print(a[0]) # hello
+print(a[-1]) # bro
+print(a[0:2]) # ['hello', 'world']
+print(a[2:-1])
 ```
