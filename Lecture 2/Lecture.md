@@ -12,4 +12,7 @@ np.inner(a, b) # = [4, 10, 18]
 <h3> SciKitLearn </h3>
 Machine Learning library
 
-![Sci Kit](images/scikit.ng)
+![Sci Kit](images/scikit.png)
+
+<h3> PyTorch </h3>
+GPU programming library
