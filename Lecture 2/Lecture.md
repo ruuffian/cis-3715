@@ -12,4 +12,4 @@ np.inner(a, b) # = [4, 10, 18]
 <h3> SciKitLearn </h3>
 Machine Learning library
 
-![Examples of SciKit](images/scikit.png)![[Pasted image 20230119095337.png]]
+![Sci Kit](images/scikit.ng)
