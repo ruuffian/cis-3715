@@ -74,3 +74,14 @@ dict.values() and dict.items() are similar, with .values() fetching a dict_value
 <center><b> DataFrame </b></center>
 
 Basically a table/2-d matrix.
+
+```python
+data = {
+		"x": [1,2,3],
+		"y": [3,2,1]
+}
+
+df = pd.DataFrame(data)
+print(df)
+```
+
