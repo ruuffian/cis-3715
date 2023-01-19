@@ -85,3 +85,6 @@ df = pd.DataFrame(data)
 print(df)
 ```
 
+![Dataframe example](images/dataframe.png)
+
+You can also 
