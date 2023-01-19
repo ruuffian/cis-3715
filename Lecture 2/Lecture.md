@@ -87,4 +87,4 @@ print(df)
 
 ![Dataframe example](images/dataframe.png)
 
-You can also 
+You can also import data from a csv using `df.read_csv(file_name)`.
