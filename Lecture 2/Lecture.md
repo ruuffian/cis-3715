@@ -88,3 +88,8 @@ print(df)
 ![Dataframe example](images/dataframe.png)
 
 You can also import data from a csv using `df.read_csv(file_name)`.
+
+Get specific columns from a row-
+```
+df.iloc(1, [2,3]) # Gets row 1, columns 2,3
+```
