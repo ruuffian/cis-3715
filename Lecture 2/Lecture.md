@@ -69,4 +69,4 @@ Dictionaries are key:value pairs, exactly like a map in other languages. They ar
 You can access the items in a dictionary in a few ways-
 
 dict.keys() - returns a dict_keys object that contains an iterable list of the keys.
-dict.
+dict.values() and dict.items() are similar, with .items() fetching a dict_items iterable and .items fetching a dict_items iterable containing tuples representing each pair, (key, value).
