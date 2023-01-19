@@ -20,3 +20,8 @@ Machine Learning library
 [Matplotlib](https://matplotlib.org) - Plotting library in python
 
 <h3> Python Basics </h3>
+Lists - Ordered, Mutable, and allow duplicates. Lists are python's simplest array-like data set. It's syntax seems like an array in many other languages, but python doesn't support fixed-length arrays in this way.
+
+```python
+
+```
