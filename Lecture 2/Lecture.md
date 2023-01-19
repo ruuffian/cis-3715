@@ -20,7 +20,9 @@ Machine Learning library
 [Matplotlib](https://matplotlib.org) - Plotting library in python
 
 <h3> Python Basics </h3>
-Lists - Ordered, Mutable, and allow duplicates. Lists are python's simplest array-like data set. It's syntax seems like an array in many other languages, but python doesn't support fixed-length arrays in this way.
+<center> <b>List</b> </center>
+
+Ordered, Mutable, and allow duplicates. Lists are python's simplest array-like data set. It's syntax seems like an array in many other languages, but python doesn't support fixed-length arrays in this way.
 
 ```python
 a = ["hello", "world", "bro"]
@@ -33,3 +35,10 @@ print(a[0:-2]) # ['hello', 'world']
 
 There are three ways to add to a list- append, insert, and extend. They do exactly what they say, in classic python fashion.
 
+Python lists can only have their elements removed by value, NOT by index-
+
+```python
+a = ["hi", "there"]
+a.remove(0) # RUNTIME ERROR
+a.remove("hi") # a = ["there"]
+```
