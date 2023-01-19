@@ -50,5 +50,11 @@ Tuples are python's fixed-length array solution, hwoever they have an unfamiliar
 
 ```python
 a = (1,2,3,4)
+print(a[0]) # 1
+```
 
+Interestingly, tuples in python can be destructured like objects in Javascript:
+```python
+a = (1,2,3)
+(one, two, three) = 
 ```
