@@ -14,5 +14,5 @@ Machine Learning library
 
 ![Sci Kit](images/scikit.png)
 
-<h3> PyTorch </h3>
-GPU programming library
+<h3> Other Tools </h3>
+[PyTorch](https://pytorch.org) - Deep Learning tools developed by facebook
