@@ -49,5 +49,6 @@ a.remove(0) # a = [2,0]
 Tuples are python's fixed-length array solution, hwoever they have an unfamiliar declaration syntax, seen below-
 
 ```python
-a = ()
+a = (1,2,3,4)
+
 ```
