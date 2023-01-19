@@ -41,4 +41,7 @@ Python lists can only have their elements removed by value, NOT by index-
 a = ["hi", "there"]
 a.remove(0) # RUNTIME ERROR
 a.remove("hi") # a = ["there"]
+a = [0,2,0]
+a.remove(0) # a = [2,0]
 ```
+
