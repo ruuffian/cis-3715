@@ -46,7 +46,7 @@ a.remove(0) # a = [2,0]
 ```
 
 <center><b> Tuple </b></center>
-Tuples are python's fixed-length array solution, hwoever they have an unfamiliar declaration syntax, seen below-
+Tuples are similar to lists, however while they have a fixed order like lists, they are not mutable- that is, they cannot be changed, updated, or resized after being declared.
 
 ```python
 a = (1,2,3,4)
@@ -56,5 +56,10 @@ print(a[0]) # 1
 Interestingly, tuples in python can be destructured like objects in Javascript:
 ```python
 a = (1,2,3)
-(one, two, three) = 
+(one, two, three) = a # one = 1, two = 2, three = 3
 ```
+
+<center><b> Dictionary </b></center>
+
+Dictionaries are key:value pairs, exactly like a map in other languages. They are an unordered, mutable datastructure with the restriction that you cannot have duplicate keys. Dictionaries are a great way to optimize many algorithms, as they allow O(1) lookup and modification times (amortized).
+
