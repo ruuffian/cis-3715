@@ -35,3 +35,5 @@ If more than 50% of the values are missing, it is probably safe to simply remove
 ![% of Missing Values](images/missing_features.png)
 
 In a lot of situations, we would rather fill the missing data than remove a feature from analysis entirely. Two easy solutions are to fill in each missing datapoint with the mean or median of said feature. 
+	Note if you're distribution is not a long-tailed distribution, the median and mean will be very similar so there isn't a big difference between the two. However, if your data is in fact long-tailed, the median is the most accurate representation of an "avg". 
+
