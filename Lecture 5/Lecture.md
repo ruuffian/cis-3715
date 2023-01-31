@@ -34,3 +34,4 @@ Graph Data
 If more than 50% of the values are missing, it is probably safe to simply remove the feature entirely. We can check this very easily-
 ![% of Missing Values](images/missing_features.png)
 
+In a lot of situations, we would rather fill the missing data than remove a feature from analysis entirely. Two easy solutions are to fill in each missing datapoint with the mean or median of said feature. 
