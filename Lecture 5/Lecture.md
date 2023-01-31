@@ -26,4 +26,6 @@ Graph Data
 
 #### Why is Data Processing Important
 
-![Example of Missing Data]](images/missing_data.png)
+![Example of Missing Data](images/missing_data.png)
+
+
