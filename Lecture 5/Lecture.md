@@ -5,6 +5,7 @@ I missed two days of classes, here is a summary-
 - That's it
 - I didn't miss anything.
 - All the python techniques are in the slides.
+	*SUMMARY ENDS HERE*
 Boxplot
 - Boxplots are good!
 - min, 25%, median, 75%, max
@@ -16,3 +17,12 @@ With tabular data, we have the underlying assumption that each sample/row/piece 
 Graph Data
 - Unweighted graphs show relationships, weighted graphs show dependance
 - networkx is a good python library
+### Data Preprocessing
+
+##### Outline
+- Missing Values
+- Categorical Features
+- Normalization
+
+#### Why is Data Processing Important
+
