@@ -9,4 +9,5 @@ Boxplot
 - Boxplots are good!
 - min, 25%, median, 75%, max
 - Care for outliers, you want your min and max values to be outlier-free
-- 
+Scatter Plots
+- Can reveal correlations or dependencies in data
