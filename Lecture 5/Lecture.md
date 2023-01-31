@@ -40,4 +40,5 @@ In a lot of situations, we would rather fill the missing data than remove a feat
 
 [Useful Machine Learning 'Glossary'](https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html)
 
-Prof mentioned cross-entropy which I've never heard of so this might be useful later
+Prof mentioned cross-entropy which I've never heard of so this might be useful later.
+
