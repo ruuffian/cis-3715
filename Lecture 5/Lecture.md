@@ -38,3 +38,6 @@ In a lot of situations, we would rather fill the missing data than remove a feat
 
 	Note if you're distribution is not a long-tailed distribution, the median and mean will be very similar so there isn't a big difference between the two. However, if your data is in fact long-tailed, the median is the most accurate representation of an "avg". 
 
+[Useful Machine Learning 'Glossary'](https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html)
+
+Prof mentioned cross-entropy which I've never heard of so this might be useful later
