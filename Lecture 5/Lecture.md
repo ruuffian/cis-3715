@@ -28,4 +28,9 @@ Graph Data
 
 ![Example of Missing Data](images/missing_data.png)
 
+`df.isnull()` gives a same-shape object of Booleans indicating whether or not a value is missing (NaN) or not.
+![Dataframe isnull](images/isnull.png)
+
+If more than 50% of the values are missing, it is probably safe to simply remove the feature entirely. We can check this very easily-
+![% of Missing Values](images/missing_features.png)
 
