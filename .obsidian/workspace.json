@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "237e07e345a34ad0",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Lecture 5/images/missing data 1.png"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 5/Lecture.md",
+                "file": "Lecture 5/images/missing data 1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 5/Lecture.md",
+                "file": "Lecture 5/images/missing data 1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 5/Lecture.md"
+                "file": "Lecture 5/images/missing data 1.png"
               }
             }
           }
@@ -160,8 +170,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "25d3ca6607864535",
+  "active": "237e07e345a34ad0",
   "lastOpenFiles": [
+    "Lecture 5/Lecture.md",
     "Lecture 2/Lecture.md",
     "images/scikit.png.md",
     "Lecture 1/Lecture.md",
@@ -170,7 +181,6 @@
     "Lecture 1/Example 4.md",
     "Lecture 1/Example 2.md",
     "Lecture 1/images/Product Recommender.png",
-    "Lecture 1/images/classifier.png",
-    "Lecture 1/images/preprocessing.png"
+    "Lecture 1/images/classifier.png"
   ]
 }
