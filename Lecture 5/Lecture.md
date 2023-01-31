@@ -11,3 +11,5 @@ Boxplot
 - Care for outliers, you want your min and max values to be outlier-free
 Scatter Plots
 - Can reveal correlations or dependencies in data
+- `df.corr()` calculates correlation for each attribute in your data, high correlation value = strong correlation
+- 
