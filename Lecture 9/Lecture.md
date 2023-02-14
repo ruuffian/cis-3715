@@ -55,3 +55,5 @@ $f(x_i) = \frac{1}{1 + exp(-w^Tx_i)}$
 
 Here is the same example as above with the function defined above:
 ![example](images/sigmoid.png)
+
+We can also interpret this function from a probablistic POV: $p(y = 1 \thinspace | \thinspace x) = \sigma(w^Tx) = \frac{1}{1 + exp(-w^Tx) = e}
