@@ -37,3 +37,4 @@ $z(x) = 0$ specifies a linear boundary, separating the data into two half-spaces
 $\hat{y} = \{1, z(x) > 0\} \thinspace || \thinspace \{0, z(x) < 0\}$
 
 Here is an example of the above classifier ($\hat{y}$):
+![example](mages/y_hat_ex.png)
