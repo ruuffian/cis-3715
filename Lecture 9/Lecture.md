@@ -67,4 +67,4 @@ $L(\theta) = p(x_1;\theta)p(x_2;\theta)\dots p(x_n;\theta)$
 
 $p(y_i | x_i) = \{p(1|x_i), y_i = 1\} || \{1 - p(1|x_i), y_i = 0\} \rightarrow$
 $p(1|x_i)^{y_i} (1 - p(1|x_i))^{1-y_i} \rightarrow$
-$max_w \product$
+$max_w \thinspace \Pi_{i=1}^n p(1|x_i)^{y_i} (1-p(1|x_i))^{1 - y_i}$  
