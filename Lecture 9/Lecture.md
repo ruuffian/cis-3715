@@ -10,4 +10,4 @@ Summary of What I think I missed:
 	- Example: Linear Regression - $min_w ||y - Xw||^2$ has gradient $-2X^T(y-Xw)$, so gradient descent looks like this:
 		- $w_{t+1} = w_t - n(2X^T(Xw_t - y))$
 - Overfitting: Errors on training data is very good, but errors on new data points are very large.
-	- How to avoid? add a regularization term
+	- How to avoid? add a regularization term - basically a constant to e
