@@ -38,3 +38,13 @@ $\hat{y} = \{1, z(x) > 0\} \thinspace || \thinspace \{0, z(x) < 0\}$
 
 Here is an example of the above classifier ($\hat{y}$):
 ![example](mages/y_hat_ex.png)
+
+### Logistic Regression
+
+Now we introduce the sigmoid function
+
+- If z > 0, the function value is close to 1 => predict 1
+- if z < 0, the function value is close to 0 => predict 0
+- if z = 0, the function value is 0.5
+
+$\sigma(z) = \frac{1}{1 + exp(-z)}$ 
