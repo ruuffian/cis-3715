@@ -48,3 +48,5 @@ Now we introduce the sigmoid function
 - if z = 0, the function value is 0.5
 
 $\sigma(z) = \frac{1}{1 + exp(-z)}$ 
+
+So, if $\sigma(z) > 0.5$, predict 1 and vice versa.
