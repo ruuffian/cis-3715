@@ -14,6 +14,6 @@ Summary of What I think I missed:
 	- Ridge Regression: use l-2 norm
 		- $min_w \frac{1}{n} ||y-Xw||^2_2 + \lambda||w||^2_2$ 
 	- Lasso: use l-1 norm
-		- 
+		- $min_w \frac{1}{n} ||y - Xw||_1 + \lambda||w||_1$
 	- Difference: Lasso Model will always have a sparse vector, whereas ridge regression will have a vector of differences
 	- 
