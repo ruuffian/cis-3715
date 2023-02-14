@@ -64,3 +64,7 @@ Since there are only two classes (Binary Classification), we can get the probabl
 We can use a likelihood function to measure how well our model fits the data
 
 $L(\theta) = p(x_1;\theta)p(x_2;\theta)\dots p(x_n;\theta)$ 
+
+$p(y_i | x_i) = \{p(1|x_i), y_i = 1\} || \{1 - p(1|x_i), y_i = 0\} \rightarrow$
+$p(1|x_i)^{y_i} (1 - p(1|x_i))^{1-y_i} \rightarrow$
+$max_w \product$
