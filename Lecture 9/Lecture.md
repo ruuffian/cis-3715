@@ -50,3 +50,4 @@ Now we introduce the sigmoid function
 $\sigma(z) = \frac{1}{1 + exp(-z)}$ 
 
 So, if $\sigma(z) > 0.5$, predict 1 and vice versa.
+
