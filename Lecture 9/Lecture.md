@@ -29,4 +29,4 @@ A classical example of a binary classification problem is detecting if an email 
 
 Given n-samples: $\{(x_1, y_1), (x_2, y_2), \dots , (x_n, y_n)\}$
 Then, learn a mapping function $f: X \times Y \rightarrow \{0, 1\}$ 
- 
+ ![examples](images/classification_examples.png)
