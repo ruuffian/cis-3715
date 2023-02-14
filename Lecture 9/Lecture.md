@@ -7,3 +7,6 @@ Summary of What I think I missed:
 - Gradient Descent
 	- $x_{t+1} = x_t - n \nabla f(x_t)$ 
 	- Basically move in the opposite direction of the gradient to minimize the loss function ($f(x_t)$).
+	- Example: Linear Regression - $min_w ||y - Xw||^2$ has gradient $-2X^T(y-Xw)$, so gradient descent looks like this:
+		- $w_{t+1} = w_t - n(2X^T(Xw_t - y))$
+	
