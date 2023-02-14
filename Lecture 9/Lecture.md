@@ -33,4 +33,4 @@ Then, learn a mapping function $f: X \times Y \rightarrow \{0, 1\}$
 
 Lineat Classifier: $z(x) = w^Tx = w_0 + w_1x_1 + \dots + w_dx_d$ <- Inner Product
 $z(x) = 0$ specifies a linear boundary, separating the data into two half-spaces (seen above).
-$\hat{y} = \{1, z(x) > 0} \thinspace || \thinspace {0, z(x) < 0\}$
+$\hat{y} = \{1, z(x) > 0\} \thinspace || \thinspace \{0, z(x) < 0\}$
