@@ -58,3 +58,9 @@ Here is the same example as above with the function defined above:
 
 We can also interpret this function from a probablistic POV: $p(y = 1 \thinspace | \thinspace x) = \sigma(w^Tx) = \frac{1}{1 + exp(-w^Tx)} = \frac{exp(w^Tx)}{1 + exp(w^Tx)}$ 
 Since there are only two classes (Binary Classification), we can get the probablity of y = 0 given x like so: $p(y = 0 \thinspace | \thinspace x) = 1 - p(y = 1 \thinspace | \thinspace x)$
+
+#### Likelihood Function
+
+We can use a likelihood function to measure how well our model fits the data
+
+$L(\theta) = p(x_1;\theta)p(x_2;\theta)\dots p(x_n;\theta)$ 
