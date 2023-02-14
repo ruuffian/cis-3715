@@ -16,4 +16,16 @@ Summary of What I think I missed:
 	- Lasso: use l-1 norm
 		- $min_w \frac{1}{n} ||y - Xw||_1 + \lambda||w||_1$
 	- Difference: Lasso Model will always have a sparse vector, whereas ridge regression will have a vector of differences
-	- 
+
+### Classification
+
+*Binary Classification*: Only two classes, 0-1, fraud-not fraud etc.
+A classical example of a binary classification problem is detecting if an email is spam or not.
+*Multi-Class Classification*: Many classes to classify.
+
+##### Binary Classification
+- Learn a classifier to seperate positive samples from negative samples
+	- A good practice to get into is to use 0 and 1 as labels
+
+Given n-samples: $\{(x_1, y_1), (x_2, y_2), \dots , (x_n, y_n)\}$
+Then, learn a mapping function $f: X \rightarrow \{0, 1\}$ 
