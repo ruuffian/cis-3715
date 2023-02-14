@@ -51,5 +51,7 @@ $\sigma(z) = \frac{1}{1 + exp(-z)}$
 
 So, if $\sigma(z) > 0.5$, predict 1 and vice versa.
 
-Here is the same example as above with the sigmoid function:
-![[sigmoid.png]]
+$f(x_i) = \frac{1}{1 + exp(-w^Tx_i)}$
+
+Here is the same example as above with the function defined above:
+![example](images/sigmoid.png)
