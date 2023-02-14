@@ -71,3 +71,6 @@ $max_w \thinspace \Pi_{i=1}^n p(1|x_i)^{y_i} (1-p(1|x_i))^{1 - y_i}$
 
 Here is an example of optimizing this function:
 ![example](images/likelihood.png)
+
+I'm not even going to ATTEMPT to latex this out in time :(
+![example](images/minimize_log_likelihood.png)
