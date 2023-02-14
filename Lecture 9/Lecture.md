@@ -28,4 +28,5 @@ A classical example of a binary classification problem is detecting if an email 
 	- A good practice to get into is to use 0 and 1 as labels
 
 Given n-samples: $\{(x_1, y_1), (x_2, y_2), \dots , (x_n, y_n)\}$
-Then, learn a mapping function $f: X \rightarrow \{0, 1\}$ 
+Then, learn a mapping function $f: X \times Y \rightarrow \{0, 1\}$ 
+ 
