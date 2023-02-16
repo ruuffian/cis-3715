@@ -19,9 +19,11 @@ Gradient of Loss Function: $\frac{\delta L}{\delta w} = \sum_{i=1}^n x_i \left( 
 **Linear**: $f(x_i) = w_0 +w_1x_1 \dots w_dx_d$
 Logistic: $f(x_i) = \frac{1}{1+exp(w^Tx_i)}$
 
-![[regression.png]]
+![example](images/regression.png)
 
 How do we evaluate our classification alg?
 
 For logistic regression, when the data is balanced (roughly same amount of 0s and 1s), we simply take how many correct predictions we made and divide it by the total number of predictions.
-![[evaluation.png]]
+![example](images/evaluation.png)
+
+
