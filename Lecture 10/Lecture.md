@@ -40,3 +40,6 @@ Above are the 4 kinds of classifications, trivially understood from their names.
 **Precision**: The proportion of positive predictions that are actually correct. 
 	$Precision = \frac{TP}{TP + FP}$ 
 
+Now that we have defined there terms, we can redefine our accuracy calculation-
+	$Accuracy = \frace{TP + TN}{TP +TN + FN + FP}$
+	
