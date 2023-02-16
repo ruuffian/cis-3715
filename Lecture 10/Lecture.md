@@ -43,3 +43,4 @@ Above are the 4 kinds of classifications, trivially understood from their names.
 Now that we have defined there terms, we can redefine our accuracy calculation-
 	$Accuracy = \frac{TP + TN}{TP +TN + FN + FP}$
 
+Recall and Precision are much better evaluators for unbalanced data.
