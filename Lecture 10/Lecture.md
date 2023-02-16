@@ -64,4 +64,6 @@ When users are sensitive to prediction error, we should maximize precision. A la
 
 New Model Pattern: **Threefold Split**
 
-Before, we had a training phase to train the model and a testing phase, to predict new data. With a threefold split, we add a third phase as part of the training phase called the validation phase. We use this phase to select a hyperparameter for regularization. So, we now follow the following patter:
+Before, we had a training phase to train the model and a testing phase, to predict new data. With a threefold split, we add a third phase as part of the training phase called the validation phase. We use this phase to select a hyperparameter for regularization. So, we now follow the following pattern:
+![example](images/threefold_model.png)
+
