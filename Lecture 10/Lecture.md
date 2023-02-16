@@ -48,3 +48,5 @@ When should we care about *Recall* and *Precision*?
 
 When we really care about finding all positive samples, we should definitely focus on maximizing recall. A larger recall -> more ground-truth samples are found.
 When users are sensitive to prediction error, we should maximize precision. A large precision means the positive prediction has a higher probability to be correct.
+
+*F1 Score*: The harmonic mean of precision and recall
