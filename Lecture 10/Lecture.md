@@ -19,3 +19,4 @@ Gradient of Loss Function: $\frac{\delta L}{\delta w} = \sum_{i=1}^n x_i \left( 
 **Linear**: $f(x_i) = w_0 +w_1x_1 \dots w_dx_d$
 Logistic: $f(x_i) = \frac{1}{1+exp(w^Tx_i)}$
 
+![[Pasted image 20230216094933.png]]
