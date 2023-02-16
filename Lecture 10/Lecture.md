@@ -21,15 +21,19 @@ Logistic: $f(x_i) = \frac{1}{1+exp(w^Tx_i)}$
 
 ![example](images/regression.png)
 
-How do we evaluate our classification alg?
+### Classification Evaluation
 
 For logistic regression, when the data is balanced (roughly same amount of 0s and 1s), we simply take how many correct predictions we made and divide it by the total number of predictions.
 ![example](images/evaluation.png)
 
 Be careful! Accuracy is not a good metric when the data is imbalanced- imagine a model that always predicts 0, and the data it is given is 6 0s and 1 1! The accuracy would be 6/7, but clearly the model is not very good. 
 
-| True Positive  | True Negative  |
-| -------------- | -------------- |
-| False Positive | False Negative |
+|                       | Positive (ground-truth) | Negative(ground-truth) |
+| --------------------- | ----------------------- | ---------------------- |
+| Positive (Prediction) | True Positive           | False Positive         |
+| Negative (Prediction) | False Negative          | True Negative                       |
 
 Above are the 4 kinds of classifications, trivially understood from their names. 
+
+*Recall*: the proportion of actual positives that are correctly classified. $Recall = \frac{TP}{TP+FN}$
+**Precision**: The proportion of positive predictions is actually correct. $Precision = \frac{TP}{TP + FP}$ 
