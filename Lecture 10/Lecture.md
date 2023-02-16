@@ -67,3 +67,4 @@ New Model Pattern: **Threefold Split**
 Before, we had a training phase to train the model and a testing phase, to predict new data. With a threefold split, we add a third phase as part of the training phase called the validation phase. We use this phase to select a hyperparameter for regularization. So, we now follow the following pattern:
 ![example](images/threefold_model.png)
 
+For each hyperparameter, we will train the model using the training set and then evauluate the parameter with the validation set. Every time we pick a new parameter, we retrain the model on the training set and validation set. After selecting the best hyperparameter, we combine the training and validation sets and do a final retrain of our model.
