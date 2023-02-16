@@ -33,14 +33,12 @@ Be careful! Accuracy is not a good metric when the data is imbalanced- imagine a
 | **Positive (Prediction)** | True Positive           | False Positive         |
 | **Negative (Prediction)** | False Negative          | True Negative                       |
 
-
 Above are the 4 kinds of classifications, trivially understood from their names. 
 
 *Recall*: the proportion of actual positives that are correctly classified. 
 	$Recall = \frac{TP}{TP+FN}$
 **Precision**: The proportion of positive predictions that are actually correct. 
 	$Precision = \frac{TP}{TP + FP}$ 
-
 Now that we have defined there terms, we can redefine our accuracy calculation-
 	$Accuracy = \frac{TP + TN}{TP +TN + FN + FP}$
 
