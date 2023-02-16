@@ -27,3 +27,9 @@ For logistic regression, when the data is balanced (roughly same amount of 0s an
 ![example](images/evaluation.png)
 
 Be careful! Accuracy is not a good metric when the data is imbalanced- imagine a model that always predicts 0, and the data it is given is 6 0s and 1 1! The accuracy would be 6/7, but clearly the model is not very good. 
+
+| True Positive  | True Negative  |
+| -------------- | -------------- |
+| False Positive | False Negative |
+
+Above are the 4 kinds of classifications, trivially understood from their names. 
