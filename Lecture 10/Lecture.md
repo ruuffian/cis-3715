@@ -37,5 +37,6 @@ Above are the 4 kinds of classifications, trivially understood from their names.
 
 *Recall*: the proportion of actual positives that are correctly classified. 
 	$Recall = \frac{TP}{TP+FN}$
-**Precision**: The proportion of positive predictions is actually correct. 
+**Precision**: The proportion of positive predictions that are actually correct. 
 	$Precision = \frac{TP}{TP + FP}$ 
+
