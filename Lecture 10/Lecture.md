@@ -44,4 +44,7 @@ Now that we have defined there terms, we can redefine our accuracy calculation-
 
 Recall and Precision are much better evaluators for unbalanced data.
 
-When should we care about 
+When should we care about *Recall* and *Precision*?
+
+When we really care about finding all positive samples, we should definitely focus on maximizing recall. A larger recall -> more ground-truth samples are found.
+When users are sensitive to prediction error, we should maximize precision. A large precision means the positive prediction has a higher probability to be correct.
