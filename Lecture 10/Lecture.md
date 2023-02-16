@@ -57,4 +57,4 @@ When users are sensitive to prediction error, we should maximize precision. A la
 1. Build the Model
 	- Linear classifier to separate positive and negative samples
 2. Optimize the Model
-	- 
+	- $w_{k+1} = w_k - N * \sum^n_{i=1}
