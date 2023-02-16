@@ -11,3 +11,11 @@ Gradient of Loss Function: $\frac{\delta L}{\delta w} = \sum_{i=1}^n x_i \left( 
 
 ### Linear vs Logistic Regression
 
+| Type     | Features           |
+| -------- | ------------------ |
+| Linear   | - Y is continuous, |
+| Logistic | - Y is discrete                   |
+
+**Linear**: $f(x_i) = w_0 +w_1x_1 \dots w_dx_d$
+Logistic: $f(x_i) = \frac{1}{1+exp(w^Tx_i)}$
+
