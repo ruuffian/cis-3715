@@ -51,3 +51,5 @@ When users are sensitive to prediction error, we should maximize precision. A la
 
 *F1 Score*: The harmonic mean of precision and recall, which conveys the balance between the precision and the recall.
 	$F_1 = \frac{2*Recall* Precision}{Recall + Precision}$
+
+### Summary of 
