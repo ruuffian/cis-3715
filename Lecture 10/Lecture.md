@@ -44,4 +44,4 @@ Now that we have defined there terms, we can redefine our accuracy calculation-
 
 Recall and Precision are much better evaluators for unbalanced data.
 
-	 
+When should we care about 
