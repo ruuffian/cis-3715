@@ -26,3 +26,12 @@ The following are graphical depictions of the above algorithm- the crosses are t
 ![step 2 alg](images/step_2.png)
 ![step 3 alg](images/step_3.png)
 ![step 4 alg](images/step_4.png)
+
+Strengths of K-Means:
+	Very simple to implement
+	Fairly Efficient- O(KNT), where K is the # of means, N is the # samples, T is the # of iterations
+Weaknesses of K-Means:
+	Only applicable when means are defined
+	Sensitive to outlier
+	Sensitive to initialization (the randomly chosen starting clusters)
+
