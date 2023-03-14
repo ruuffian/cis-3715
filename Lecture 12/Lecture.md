@@ -9,3 +9,6 @@ Unsupervised Learning AKA Clustering: We are given only the samples- we do NOT k
 For clustering, we first must partition our data by some metric:
 ![partitions](images/partitions.png)
 
+### K-Means Clustering
+
+Given some dataset $\{x_1, x_2, \dots, x_n\}$, K-Means partitions the data into K clusters- each cluster has a cluster center, called a centroid.
