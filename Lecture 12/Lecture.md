@@ -40,3 +40,9 @@ Example of outliers strongly affecting the clusters:
 
 ### Agglomerative Clustering
 
+Algorithm:
+1. Initialize each sample as a cluster
+2. Repeat the following until there is only 1 cluster
+	1. Pick the two nearest clusters
+	2. Merge them into a new cluster
+
