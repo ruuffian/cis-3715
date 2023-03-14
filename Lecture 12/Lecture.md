@@ -12,3 +12,6 @@ For clustering, we first must partition our data by some metric:
 ### K-Means Clustering
 
 Given some dataset $\{x_1, x_2, \dots, x_n\}$, K-Means partitions the data into K clusters- each cluster has a cluster center, called a centroid.
+
+![k-means clustering](images/k-means.png)
+
