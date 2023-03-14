@@ -35,3 +35,6 @@ Weaknesses of K-Means:
 	Sensitive to outlier
 	Sensitive to initialization (the randomly chosen starting clusters)
 
+Example of outliers strongly affecting the clusters:
+![outliers](images/outliers.png)
+
