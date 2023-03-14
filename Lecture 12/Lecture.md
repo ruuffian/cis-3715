@@ -23,3 +23,5 @@ Given some dataset $\{x_1, x_2, \dots, x_n\}$, K-Means partitions the data into 
 
 The following are graphical depictions of the above algorithm- the crosses are the centroids, initally random and then computed.
 ![[Pasted image 20230314095145.png]]
+![[Pasted image 20230314095158.png]]
+![[Pasted image 20230314095206.png]]
