@@ -15,3 +15,5 @@ Given some dataset $\{x_1, x_2, \dots, x_n\}$, K-Means partitions the data into 
 
 ![k-means clustering](images/k-means.png)
 
+**Procedure**:
+1. Randomly initialize the cluster centroids $\mu_1, \mu_2, \dots, \mu_k$
