@@ -17,3 +17,6 @@ Given some dataset $\{x_1, x_2, \dots, x_n\}$, K-Means partitions the data into 
 
 **Procedure**:
 1. Randomly initialize the cluster centroids $\mu_1, \mu_2, \dots, \mu_k$
+2. Repeat the following until no change in $\mu_k$:
+	1. Classify N samples in terms of the nearest cluster centroid
+	2. Re-compute the cluster centroid
