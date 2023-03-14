@@ -46,3 +46,14 @@ Algorithm:
 	1. Pick the two nearest clusters
 	2. Merge them into a new cluster
 
+How do we measure the similarity of clusters that contain multiple samples?
+
+1. Single Link
+	- Distance of the closest samples in each cluster
+	- This can cause very long and skinny clusters
+2. Complete Link
+	- Distance of the farthest samples in each cluster
+	- Much tighter clusters
+3. Average Link
+	- Average distance of each pair of samples
+	- Robust against noise; Most widely used method
