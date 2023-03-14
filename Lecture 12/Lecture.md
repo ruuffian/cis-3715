@@ -38,3 +38,5 @@ Weaknesses of K-Means:
 Example of outliers strongly affecting the clusters:
 ![outliers](images/outliers.png)
 
+### Agglomerative Clustering
+
