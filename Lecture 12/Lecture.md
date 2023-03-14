@@ -6,3 +6,6 @@ Unsupervised Learning AKA Clustering: We are given only the samples- we do NOT k
 
 ![Clustering Diagram](images/clustering.png)
 
+For clustering, we first must partition our data by some metric:
+![partitions](images/partitions.png)
+
