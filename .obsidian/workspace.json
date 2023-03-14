@@ -11,11 +11,9 @@
             "id": "6f858a016ade06d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Lecture 12/Lecture.md",
-                "mode": "source",
-                "source": false
+                "file": "Lecture 12/images/step 3.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 12/Lecture.md",
+                "file": "Lecture 12/images/step 3.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 12/Lecture.md",
+                "file": "Lecture 12/images/step 3.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 12/Lecture.md"
+                "file": "Lecture 12/images/step 3.png"
               }
             }
           }
@@ -147,13 +145,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6f858a016ade06d7",
+  "active": "751e726b4b7aa557",
   "lastOpenFiles": [
-    "Lecture 12/images/step 4.png",
     "Lecture 12/Lecture.md",
+    "Lecture 12/images/step 4.png",
     "Lecture 12/images/step 3.png",
-    "Lecture 12/images/step 2.png",
-    "Lecture 12/images/step 1.png",
+    "Lecture 12/images/step_2.png",
+    "Lecture 12/images/step_1.png",
     "Lecture 12/images/k-means.png",
     "Lecture 12/images/partitions.png",
     "Lecture 12/images/clustering.png",

@@ -22,7 +22,7 @@ Given some dataset $\{x_1, x_2, \dots, x_n\}$, K-Means partitions the data into 
 	2. Re-compute the cluster centroid
 
 The following are graphical depictions of the above algorithm- the crosses are the centroids, initally random and then computed.
-![[step 1.png]]
-![[step 2.png]]
-![[step 3.png]]
-![[step 4.png]]
+![step 1 of alg](images/step_1.png)
+![step 2 alg](images/step_2.png)
+![step 3 alg](images/step_3.png)
+![step 4 alg](images/step_4.png)
